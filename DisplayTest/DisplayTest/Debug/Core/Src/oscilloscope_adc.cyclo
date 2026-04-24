@@ -1,0 +1,8 @@
+../Core/Src/oscilloscope_adc.c:27:13:OSC_TIM2_SetSampleRate	4
+../Core/Src/oscilloscope_adc.c:51:6:OSC_ADC_Init	1
+../Core/Src/oscilloscope_adc.c:70:6:OSC_ADC_StartSampling	3
+../Core/Src/oscilloscope_adc.c:102:6:OSC_ADC_StopSampling	1
+../Core/Src/oscilloscope_adc.c:112:7:OSC_ADC_ReadSingle	1
+../Core/Src/oscilloscope_adc.c:136:7:OSC_ADC_RawToVoltage	1
+../Core/Src/oscilloscope_adc.c:141:7:OSC_MapVoltageFromADC	2
+../Core/Src/oscilloscope_adc.c:156:6:HAL_ADC_ConvCpltCallback	3

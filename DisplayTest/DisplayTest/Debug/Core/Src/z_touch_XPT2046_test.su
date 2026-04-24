@@ -1,0 +1,11 @@
+../Core/Src/z_touch_XPT2046_test.c:44:6:DrawCross	40	static
+../Core/Src/z_touch_XPT2046_test.c:60:6:MoveCross	32	static
+../Core/Src/z_touch_XPT2046_test.c:89:6:Test_TouchInterrupt	112	static
+../Core/Src/z_touch_XPT2046_test.c:139:6:Test_TouchSPI	112	static
+../Core/Src/z_touch_XPT2046_test.c:194:6:Touch_ShowData_Fixed	104	static
+../Core/Src/z_touch_XPT2046_test.c:314:6:Touch_ShowData	88	static
+../Core/Src/z_touch_XPT2046_test.c:366:6:Touch_TestDrawing	64	static
+../Core/Src/z_touch_XPT2046_test.c:412:6:Touch_TestCalibration	248	static
+../Core/Src/z_touch_XPT2046_test.c:671:6:Touch_TestCalibration_Landscape	248	static
+../Core/Src/z_touch_XPT2046_test.c:867:6:Read_Raw_Touch_Values	192	static
+../Core/Src/z_touch_XPT2046_test.c:1023:6:Verify_Touch_Calibration	120	static

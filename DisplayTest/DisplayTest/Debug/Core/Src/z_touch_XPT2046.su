@@ -1,0 +1,13 @@
+../Core/Src/z_touch_XPT2046.c:29:6:Touch_HandlePenDownInterrupt	4	static
+../Core/Src/z_touch_XPT2046.c:43:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/z_touch_XPT2046.c:67:6:HAL_GPIO_EXTI_Falling_Callback	16	static
+../Core/Src/z_touch_XPT2046.c:71:6:HAL_GPIO_EXTI_Rising_Callback	16	static
+../Core/Src/z_touch_XPT2046.c:82:6:Touch_Select	8	static
+../Core/Src/z_touch_XPT2046.c:98:6:Touch_UnSelect	8	static
+../Core/Src/z_touch_XPT2046.c:115:10:Touch_PollAxis	24	static
+../Core/Src/z_touch_XPT2046.c:158:9:Touch_PollTouch	24	static
+../Core/Src/z_touch_XPT2046.c:183:6:Touch_GetXYtouch	48	static
+../Core/Src/z_touch_XPT2046.c:265:9:Touch_WaitForTouch	24	static
+../Core/Src/z_touch_XPT2046.c:288:9:Touch_WaitForUntouch	24	static
+../Core/Src/z_touch_XPT2046.c:323:9:Touch_In_XY_area	32	static
+../Core/Src/z_touch_XPT2046.c:354:9:Touch_GotATouch	24	static
